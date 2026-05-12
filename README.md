@@ -1,1 +1,1 @@
-# new_recipes
+First project in The Odin Project
